@@ -71,9 +71,18 @@
     position: absolute;
     z-index: 1;
     border-radius: 2vw;
-    left: 26.6vw;
-    top: 16.6vw;
-    max-width: 9vw;
+    left: 25.8vw;
+    top: 19.6vw;
+    max-width: 6.5vw;
+}
+
+.jaret {
+    position: absolute;
+    z-index: 1;
+    border-radius: 2vw;
+    left: 51.6vw;
+    top: 19.6vw;
+    max-width: 6.5vw;
 }
 
 .BK {
@@ -81,9 +90,9 @@
     z-index: 1;
     border-radius: 2vw;
     size: 10vw;
-    left: 45.4vw;
-    top: 16.6vw;
-    max-width: 9vw;
+    left: 39.3vw;
+    top: 19.6vw;
+    max-width: 6.5vw;
 }
 
 .raul {
@@ -91,50 +100,64 @@
     z-index: 1;
     border-radius: 2vw;
     left: 65vw;
-    top: 16.6vw;
-    max-width: 9vw;
+    top: 19.6vw;
+    max-width: 6.5vw;
 }
 
 .text1 {
     position: fixed;
-    top: 15.8vw;
+    top: 19vw;
     left: 24.8vw;
     text-align: justify;
     color: rgb(255, 255, 255);
-    padding: 10vw 4.3vw 0.5vw  4.1vw;
+    padding: 7vw 2.3vw 0.5vw  2.1vw;
     background-color: rgb(27, 27, 27);
     border-radius: 1vw;
     transition: 1s;
     text-decoration: none;
     white-space: nowrap;
-    -webkit-border-radius: 1vw;
-    -moz-border-radius: 1vw;
-    -ms-border-radius: 1vw;
-    -o-border-radius: 1vw;
 }
 
 .text2 {
     position: absolute;
-    top: 15.8vw;
-    left: 43.3vw;
+    top: 19vw;
+    left: 38.3vw;
+    text-align: justify;
     color: rgb(255, 255, 255);
-    padding: 10vw 4.3vw 0.5vw  4.1vw;
+    padding: 7vw 2.3vw 0.5vw  2.1vw;
     background-color: rgb(27, 27, 27);
     border-radius: 1vw;
     transition: 1s;
     text-decoration: none;
+    white-space: nowrap;
 }
 
 .text3 {
-    position: fixed;
-    top: 15.8vw;
-    left: 63vw;
+    position: absolute;
+    top: 19vw;
+    left: 63.8vw;
+    text-align: justify;
     color: rgb(255, 255, 255);
-    padding: 10vw 4.3vw 0.5vw  4.1vw;
+    padding: 7vw 2.3vw 0.5vw  2.1vw;
     background-color: rgb(27, 27, 27);
     border-radius: 1vw;
     transition: 1s;
     text-decoration: none;
+    white-space: nowrap;
+}
+
+.text4 {
+    position: absolute;
+    top: 19vw;
+    left: 50.8vw;
+    text-align: justify;
+    color: rgb(255, 255, 255);
+    padding: 7vw 2.3vw 0.5vw  2.1vw;
+    background-color: rgb(27, 27, 27);
+    border-radius: 1vw;
+    transition: 1s;
+    text-decoration: none;
+    white-space: nowrap;
 }
 
 .text1:hover {
